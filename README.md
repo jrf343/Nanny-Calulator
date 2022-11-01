@@ -1,5 +1,5 @@
 # Nanny-Calulator
-CS501 course project creating a paycheck calculator specifically for U.S. private nannies
+Project creating a paycheck calculator specifically for U.S. private nannies
 
 I've been a nanny for over 6 years. The U.S. government provides very few public resources and very little aid to parents, and therefore private childcare can be a lucrative career if you have the qualifications and resources to play your cards right. However, due to the nature of the career -- often worked by young women, often the only employee of a private family, usually a new position every few years, no HR department, etc. -- it can be difficult for nannies to enforce industry standards in hiring processes and throughout their positions. Many people, especially those unfamiliar with the industry, are unaware that these standards even exist. Nannies are adults (even if they are young students) with rent, bills, families, and lives, and deserve the same job standards and benefits that any other industry might expect and enjoy. These standards usually include:
 
